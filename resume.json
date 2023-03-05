@@ -1,0 +1,35 @@
+{
+  "personalDeatils": {
+    "name": "viahwakumar",
+    "phone": "9063553767",
+    "email": "vishawakumar@gmail.com",
+    "address": "Hyderabad, Telangana"
+  },
+  "professionSkills": {
+    "languages": "HTML, CSS, Javascript",
+    "libraries/frameworks": "Reactjs, Nodejs, express",
+    "IDE": "VS code",
+    "tools": "Adobe photoshop, illustrator, Premier pro, after effects"
+  },
+  "languages": "Telugu, tamil. English",
+  "certificates": {
+    "certificate1": "Responsive Web design",
+    "certificate2": "Front end development-HTML",
+    "certificate3": "Java Programmming",
+    "certificate4": "Marketing Foundations"
+  },
+  "educationDetails": {
+    "undergraduation": {
+      "collegename": "SNS Engineering College",
+      "stream": "mech",
+      "cgpa": "6.63",
+      "year": "2020"
+    },
+
+    "ssc": {
+      "schoolname": "NHSS school",
+      "cgpa": "8.8",
+      "year": "2014"
+    }
+  }
+}
